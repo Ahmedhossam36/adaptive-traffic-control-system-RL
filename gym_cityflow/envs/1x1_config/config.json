@@ -1,0 +1,12 @@
+{
+	"interval": 1.0,
+	"seed": 0,
+	"dir": "/home/ahmed/Downloads/gym_cityflow/gym_cityflow/envs/1x1_config/",
+	"roadnetFile": "roadnet.json", 
+	"flowFile": "flow.json", 
+	"rlTrafficLight": true,
+	"laneChange": true,
+	"saveReplay": true,
+	"roadnetLogFile": "replay_roadnet_sumo.json", 
+	"replayLogFile": "replay_sumo.txt"
+}
